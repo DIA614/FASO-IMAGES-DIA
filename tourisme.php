@@ -8,174 +8,83 @@
     <title>Document</title>
 </head>
 <body>
+
+<?php
+      include ("nav.php"); 
+ ?>
 <section class="culturelle"> 
     <section class="touristique">
-        <h1>Images des sites touristiques du Burkina</h1>
-        <div class="site">
+        <h2>Images des sites touristiques du Burkina</h2>
+        <!-- <div class="site">
             <p>FASO-IMAGES met à votre disposition des images de différents sites touristiques du Burkina.Le Burkina Faso abrite un réservoir important de sites touristiques parmi lesquels nous avons:Les Cascades de Banfora, Les ruines de Lorepéni, Les dunes de Oursi, Les hauts fourmeaux, etc. </p>
-        </div>
+        </div> -->
    <div class="AB">
 
-    <div class="row row-cols-1 row-cols-sm-2 row-cols-md-3 g-3">
-        <div class="col">
-            <div class="card shadow-sm">
-             <img src="culturelle1.jpeg" alt=""  width="100%" height="225">
-              <div class="card-body">
-                <p class="card-text"></p>
-                <div class="d-flex justify-content-between align-items-center">
-                  <!-- <div class="btn-group">
-                    <button type="button" class="btn btn-sm btn-outline-secondary">View</button>
-                    <button type="button" class="btn btn-sm btn-outline-secondary">Edit</button>
-                  </div> -->
-                  <small class="text-body-secondary">9 mins</small>
-                </div>
-              </div>
-            </div>
-          </div>
-
-          <div class="col">
-            <div class="card shadow-sm">
-             <img src="touristique4.jpg" alt=""  width="100%" height="225">
-              <div class="card-body">
-                <p class="card-text"></p>
-                <div class="d-flex justify-content-between align-items-center">
-                  <!-- <div class="btn-group">
-                    <button type="button" class="btn btn-sm btn-outline-secondary">View</button>
-                    <button type="button" class="btn btn-sm btn-outline-secondary">Edit</button>
-                  </div> -->
-                  <small class="text-body-secondary">9 mins</small>
-                </div>
-              </div>
-            </div>
-          </div>
-
-          <div class="col">
-            <div class="card shadow-sm">
-             <img src="touristique1.jpg" alt=""  width="100%" height="225">
-              <div class="card-body">
-                <p class="card-text"></p>
-                <div class="d-flex justify-content-between align-items-center">
-                  <!-- <div class="btn-group">
-                    <button type="button" class="btn btn-sm btn-outline-secondary">View</button>
-                    <button type="button" class="btn btn-sm btn-outline-secondary">Edit</button>
-                  </div> -->
-                  <small class="text-body-secondary">9 mins</small>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-
-        </div>
-
+   <section>
+      <ul class="gallery">
+        <li><img src="07-773.jpg" alt=""></li>
+        <li><img src="children.jpg" alt=""></li>
+        <li><img src="CULTURELA.jpg" alt=""></li>
+        <li><img src="culturelle2.jpg" alt=""></li>
+        <li><img src="culturelle3.jpg" alt=""></li>
+        <li><img src="Fespaco.jpeg" alt=""></li>
+        <li><img src="paysage1.jpg" alt=""></li>
+        <li><img src="Paysage2.jpg" alt=""></li>
+        <li><img src="sahel1.jpg" alt=""></li>
+        <li><img src="SNC2.jpg" alt=""></li>
+        <li><img src="tree.jpg" alt=""></li>
+        <li><img src="snc1.webp" alt=""></li>
+        <li><img src="culturelle2.jpg" alt=""></li>
+        <!-- <li><img src="paysage1.jpg" alt=""></li> -->
+        <li><img src="sahel1.jpg" alt=""></li>
+        </ul>
+        
+    </section>
 
         <div class="AC">
 
-            <div class="row row-cols-1 row-cols-sm-2 row-cols-md-3 g-3">
-                <div class="col">
-                    <div class="card shadow-sm">
-                     <img src="touristique2.jpg" alt=""  width="100%" height="225">
-                      <div class="card-body">
-                        <p class="card-text"></p>
-                        <div class="d-flex justify-content-between align-items-center">
-                          <!-- <div class="btn-group">
-                            <button type="button" class="btn btn-sm btn-outline-secondary">View</button>
-                            <button type="button" class="btn btn-sm btn-outline-secondary">Edit</button>
-                          </div> -->
-                          <small class="text-body-secondary">9 mins</small>
-                        </div>
-                      </div>
-                    </div>
-                  </div>
+        <section>
+      <ul class="gallery">
+        <li><img src="07-773.jpg" alt=""></li>
+        <li><img src="children.jpg" alt=""></li>
+        <li><img src="CULTURELA.jpg" alt=""></li>
+        <li><img src="culturelle2.jpg" alt=""></li>
+        <li><img src="culturelle3.jpg" alt=""></li>
+        <li><img src="Fespaco.jpeg" alt=""></li>
+        <li><img src="paysage1.jpg" alt=""></li>
+        <li><img src="Paysage2.jpg" alt=""></li>
+        <li><img src="sahel1.jpg" alt=""></li>
+        <li><img src="SNC2.jpg" alt=""></li>
+        <li><img src="tree.jpg" alt=""></li>
+        <li><img src="snc1.webp" alt=""></li>
+        <li><img src="culturelle2.jpg" alt=""></li>
+        <!-- <li><img src="paysage1.jpg" alt=""></li> -->
+        <li><img src="sahel1.jpg" alt=""></li>
+        </ul>
         
-                  <div class="col">
-                    <div class="card shadow-sm">
-                     <img src="Paysage2.jpg" alt=""  width="100%" height="225">
-                      <div class="card-body">
-                        <p class="card-text"></p>
-                        <div class="d-flex justify-content-between align-items-center">
-                          <!-- <div class="btn-group">
-                            <button type="button" class="btn btn-sm btn-outline-secondary">View</button>
-                            <button type="button" class="btn btn-sm btn-outline-secondary">Edit</button>
-                          </div> -->
-                          <small class="text-body-secondary">9 mins</small>
-                        </div>
-                      </div>
-                    </div>
-                  </div>
-        
-                  <div class="col">
-                    <div class="card shadow-sm">
-                     <img src="touristique3.jpg" alt=""  width="100%" height="225">
-                      <div class="card-body">
-                        <p class="card-text"></p>
-                        <div class="d-flex justify-content-between align-items-center">
-                          <!-- <div class="btn-group">
-                            <button type="button" class="btn btn-sm btn-outline-secondary">View</button>
-                            <button type="button" class="btn btn-sm btn-outline-secondary">Edit</button>
-                          </div> -->
-                          <small class="text-body-secondary">9 mins</small>
-                        </div>
-                      </div>
-                    </div>
-                  </div>
-                </div>
-        
-                </div>
-
+    </section>
                 <div class="AD">
 
-                    <div class="row row-cols-1 row-cols-sm-2 row-cols-md-3 g-3">
-                        <div class="col">
-                            <div class="card shadow-sm">
-                             <img src="touristique6.jpg" alt=""  width="100%" height="225">
-                              <div class="card-body">
-                                <p class="card-text"></p>
-                                <div class="d-flex justify-content-between align-items-center">
-                                  <div class="btn-group">
-                                    <button type="button" class="btn btn-sm btn-outline-secondary">View</button>
-                                    <button type="button" class="btn btn-sm btn-outline-secondary">Edit</button>
-                                  </div>
-                                  <small class="text-body-secondary">9 mins</small>
-                                </div>
-                              </div>
-                            </div>
-                          </div>
-                
-                          <div class="col">
-                            <div class="card shadow-sm">
-                             <img src="touristique5.webp" alt=""  width="100%" height="225">
-                              <div class="card-body">
-                                <p class="card-text"></p>
-                                <div class="d-flex justify-content-between align-items-center">
-                                  <div class="btn-group">
-                                    <button type="button" class="btn btn-sm btn-outline-secondary">View</button>
-                                    <button type="button" class="btn btn-sm btn-outline-secondary">Edit</button>
-                                  </div>
-                                  <small class="text-body-secondary">9 mins</small>
-                                </div>
-                              </div>
-                            </div>
-                          </div>
-                
-                          <div class="col">
-                            <div class="card shadow-sm">
-                             <img src="culturelle3.jpg" alt=""  width="100%" height="225">
-                              <div class="card-body">
-                                <p class="card-text"></p>
-                                <div class="d-flex justify-content-between align-items-center">
-                                  <div class="btn-group">
-                                    <button type="button" class="btn btn-sm btn-outline-secondary">View</button>
-                                    <button type="button" class="btn btn-sm btn-outline-secondary">Edit</button>
-                                  </div>
-                                  <small class="text-body-secondary">9 mins</small>
-                                </div>
-                              </div>
-                            </div>
-                          </div>
-                        </div>
-                
-                        </div>
+                <section>
+      <ul class="gallery">
+        <li><img src="07-773.jpg" alt=""></li>
+        <li><img src="children.jpg" alt=""></li>
+        <li><img src="CULTURELA.jpg" alt=""></li>
+        <li><img src="culturelle2.jpg" alt=""></li>
+        <li><img src="culturelle3.jpg" alt=""></li>
+        <li><img src="Fespaco.jpeg" alt=""></li>
+        <li><img src="paysage1.jpg" alt=""></li>
+        <li><img src="Paysage2.jpg" alt=""></li>
+        <li><img src="sahel1.jpg" alt=""></li>
+        <li><img src="SNC2.jpg" alt=""></li>
+        <li><img src="tree.jpg" alt=""></li>
+        <li><img src="snc1.webp" alt=""></li>
+        <li><img src="culturelle2.jpg" alt=""></li>
+        <!-- <li><img src="paysage1.jpg" alt=""></li> -->
+        <li><img src="sahel1.jpg" alt=""></li>
+        </ul>
+        
+    </section>              
                 
     
     </section>
@@ -355,7 +264,7 @@
     <section class="artisana">
         <h1>Images de l'artisanat Burkinabè</h1>
         <div class="art">
-            <p>FASO-IMAGES vous livre de belles images de l'artisanat Burkinabé.Au Burkina Faso, on distingue trois types d'artisanat qui sont : <br> -L'artisanat d'art <br> - L'artisanat utilitaire <br> - L'artisanat de service </p>
+            <p>FASO-IMAGES vous livre de belles images de l'artisanat Burkinabé.Au Burkina Faso, on distingue trois types d'artisanat qui sont :  -L'artisanat d'art - L'artisanat utilitaire  - L'artisanat de service </p>
         </div>
 
         
