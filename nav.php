@@ -3,9 +3,9 @@
       <label for="mobile">Afficher / Cacher le menu</label>
       <input type="checkbox" id="mobile" role="button">
         <ul>
-            <img src="CAMERALOGO.jpg" alt="Logo de Stockage d'Images">
-            <li><a href="#">Contact</a></li>
-          <li><a href="#">A propos</a></li>
+            <img src="camera-logo2.jpg" alt="Logo de Stockage d'Images">
+            <li><a href="contact.php">Contact</a></li>
+          <li><a href="apropos.php">A propos</a></li>
           
           <li class="deroulant"><a href="#">Categories Images &ensp;</a>
             <ul class="sous">
@@ -42,7 +42,7 @@
         <option value="shooting"><a href="shooting.php">Images Shooting</a></option>
         <option value="paysage"><a href="paysage.php">Images Paysages</a></option>
         </select> -->
-      <!-- </div> --> -->
+      <!-- </div> --> 
 
             
            

@@ -5,14 +5,15 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="style.css">
     <link rel="stylesheet" href="bootstrap.min.css">
+    <script src="https://kit.fontawesome.com/eb496ab1a0.js" crossorigin="anonymous"></script>
     <title>Document</title>
 </head>
 <body>
 <?php
       include ("nav.php"); 
       ?>
-       <section>
-    <h2>Images des traditions Burkinabè</h2>
+       <section class="paysage">
+    <h2>Images du paysage Burkinabè</h2>
       <ul class="gallery">
         <li><img src="07-773.jpg" alt=""></li>
         <li><img src="children.jpg" alt=""></li>
@@ -32,6 +33,11 @@
         </ul>
         
     </section>
+    
+    <?php
+      include ("footer.php"); 
+      ?>
+
 
     <script src="bootstrap.bundle.min.js"></script>   
     

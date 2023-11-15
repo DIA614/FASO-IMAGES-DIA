@@ -5,8 +5,10 @@
     <title>Stockage d'Images</title>
     <link rel="stylesheet"  href="style.css">
     <link rel="stylesheet" href="bootstrap.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css" integrity="sha512-z3gLpd7yknf1YoNbCzqRKc4qyor8gaKU1qmn+CShxbuBusANI9QpRohGBreCFkKxLhei6S9CQXFEbbKuqLg0DA==" crossorigin="anonymous" referrerpolicy="no-referrer" />
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>
+    <script src="https://kit.fontawesome.com/eb496ab1a0.js" crossorigin="anonymous"></script>
 </head>
 <body>
     <header>
@@ -17,22 +19,18 @@
         <div class="content">
             <h1>FASO-IMAGES</h1>
             <p>Trouvez ici des images de bonnes qualités représentants le Burkina à travers FASO-IMAGES  </p>
-            <div class="recherche">
-            <div class="for">
-                <button type="button"><span></span>VOIR PLUS</button>
+            <!-- <div class="recherche">   -->
+                <!-- <button type="button"><span></span>VOIR PLUS</button> -->
                 <!-- <button type="button"><span></span>SOUSCRIRE</button> -->
-               
-                </div>
-                <div class="col">
-                    <label for="">Recherche</label>
-                    <input type="search"> <i class="bi bi-search"></i>
-                </div>
-                   
-                </div>
-                
-
-          </div>
-    </div>
+                <!-- </div>        -->
+       <div class="boxe">
+      <form>
+      <input type="text" name="" placeholder="type">
+      <input type="submit" name="" value="Search">
+      </form>
+    </div>             
+   </div>
+  
     </header>
     <!-- Le contenu principal de la page irait ici -->
 </body>
@@ -90,7 +88,7 @@
   <!-- Gallery -->
 
   <!-- Gallery -->
-<div class="row">
+<!-- <div class="row">
     <div class="col-lg-4 col-md-12 mb-4 mb-lg-0">
       <img
         src="https://mdbcdn.b-cdn.net/img/Photos/Horizontal/Nature/4-col/img%20(73).webp"
@@ -132,8 +130,8 @@
         alt="Yosemite National Park"
       />
     </div>
-  </div>
-  <!-- Gallery -->
+  </div> -->
+
 
 
    
@@ -157,8 +155,14 @@
         </ul>
         
     </section>
+    </section>
 
 <!-- <div class="b-example-divider"></div> -->
+
+
+<section><?php
+      include ("footer.php"); 
+      ?></section>
 
 
 
