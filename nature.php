@@ -14,23 +14,47 @@
       ?>
        <section class="nature">
     <h2>Images de la biodiversité Burkinabé</h2>
-      <ul class="gallery">
-        <li><img src="07-773.jpg" alt=""></li>
-        <li><img src="children.jpg" alt=""></li>
-        <li><img src="CULTURELA.jpg" alt=""></li>
-        <li><img src="culturelle2.jpg" alt=""></li>
-        <li><img src="culturelle3.jpg" alt=""></li>
-        <li><img src="Fespaco.jpeg" alt=""></li>
-        <li><img src="paysage1.jpg" alt=""></li>
-        <li><img src="Paysage2.jpg" alt=""></li>
-        <li><img src="sahel1.jpg" alt=""></li>
-        <li><img src="SNC2.jpg" alt=""></li>
-        <li><img src="tree.jpg" alt=""></li>
-        <li><img src="snc1.webp" alt=""></li>
-        <li><img src="culturelle2.jpg" alt=""></li>
-        <!-- <li><img src="paysage1.jpg" alt=""></li> -->
-        <li><img src="sahel1.jpg" alt=""></li>
-        </ul>
+    <div class="gallery">
+    <div class="h-stretch">
+      <img src="paysage3.jpg" alt="">
+    </div>
+    <div class="v-stretch">
+      <img src="paysage3.jpg" alt="">
+    </div>
+    <div class="big-stretch">
+      <img src="paysage3.jpg" alt="">
+    </div>
+    <div class="h-stretch">
+      <img src="paysage3.jpg" alt="">
+    </div>
+    <div class="v-stretch">
+      <img src="paysage3.jpg" alt="">
+    </div>
+    <div class="big-stretch">
+      <img src="paysage3.jpg" alt="">
+    </div>
+    <div class="h-stretch">
+      <img src="paysage3.jpg" alt="">
+    </div>
+    <div class="v-stretch">
+      <img src="paysage3.jpg" alt="">
+    </div>
+    <div class="big-stretch">
+      <img src="paysage3.jpg" alt="">
+    </div>
+    <div class="h-stretch">
+      <img src="paysage3.jpg" alt="">
+    </div>
+    <div class="v-stretch">
+      <img src="paysage3.jpg" alt="">
+    </div>
+    <div class="s-stretch">
+      <img src="paysage3.jpg" alt="">
+    </div>
+    <div class="v-stretch">
+      <img src="paysage3.jpg" alt="">
+    </div>
+    </div>
         
     </section>
     

@@ -3,7 +3,7 @@
       <label for="mobile">Afficher / Cacher le menu</label>
       <input type="checkbox" id="mobile" role="button">
         <ul>
-            <img src="camera-logo2.jpg" alt="Logo de Stockage d'Images">
+            <img src="camera-logo22.jpg" alt="Logo de Stockage d'Images">
             <li><a href="contact.php">Contact</a></li>
           <li><a href="apropos.php">A propos</a></li>
           
