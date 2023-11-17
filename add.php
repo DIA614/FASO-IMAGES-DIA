@@ -1,3 +1,10 @@
+<?php 
+// session_start();
+
+// if (isset($_SESSION['id']) && isset($_SESSION['user_name'])) {
+
+ ?>
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -17,7 +24,7 @@
 
 </head>
 <body>
-        <center>
+        <!-- <center>
         <div class="main">
         <form action="insert.php" method="POST" enctype="multipart/form-data" >
         <label for="">Name:</label>
@@ -30,7 +37,7 @@
 
         </form>
     </div>
-        </center>
+        </center> -->
 
         <!-- fetch data -->
 
@@ -83,3 +90,10 @@
 </div>
 </body>
 </html>
+
+<?php 
+// }else{
+//      header("Location: index.php");
+//      exit();
+// }
+ ?>

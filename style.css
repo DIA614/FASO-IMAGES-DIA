@@ -1,10 +1,21 @@
 .main{
-    background-color: gainsboro;
-    margin-top: 10px;
-    max-width: 400px;
+    background-color: rgb(114, 109, 109);
+    margin-top: 10%;
+    max-width: 500px; */
+    /* max-height: 500px; */
+ }
+.main button{
+  width: 50%;
+  margin-top: 10%;
+  margin-bottom: 3%;
+  border-radius: 10px;
+}
+.main label{
+  width: 20%;
+  color: #f2f2f2;
 }
 input{
-    margin: 10px;
+    margin: 20px;
 } 
 
 
