@@ -16,7 +16,11 @@
             </style>
 
 </head>
-<body>
+
+<?php
+      include ("dash.php"); 
+      ?>
+<body> <br><br>
         <center>
         <div class="main">
         <form action="insert.php" method="POST" enctype="multipart/form-data" >

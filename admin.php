@@ -5,6 +5,14 @@
 	<link rel="stylesheet" type="text/css" href="style2.css">
 </head>
 <body>
+	<section>
+	<?php
+    //   include ("dash.php"); 
+      ?> 
+	</section>
+
+    
+
      <form action="login.php" method="post">
      	<h2>LOGIN</h2>
      	<?php if (isset($_GET['error'])) { ?>
