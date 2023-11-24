@@ -17,6 +17,8 @@
               <li><a href="paysage.php">Images Paysage</a></li>
             </ul>
           </li>
+          <li><a href="admin.php"><button>Connexion</button></a></li>
+          <li><a href="admin.php"><button>Deconnexion</button></a></li>
           
         </ul>
       </div>

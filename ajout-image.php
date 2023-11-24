@@ -28,7 +28,7 @@
         <input type="text" name="name"><br>
         <label for="">Price :</label>
         <input type="text" name="price" id=""><br>
-        <label for="">Categorie:</label>
+        <label for="select">Categorie:</label>
         <input type="text" name="categorie"><br>
         <label for="">Image:</label>
         <input type="file" name="image" id=""><br>
