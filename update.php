@@ -20,7 +20,7 @@
 
 include 'config.php';
 $ID = $_GET['id'];
-$Record = mysqli_query($con,"SELECT * FROM `tblcard` WHERE id = $ID");
+$Record = mysqli_query($con,"SELECT * FROM `tblcard` WHERE id = $id");
 $data = mysqli_fetch_array($Record);
 
 ?>

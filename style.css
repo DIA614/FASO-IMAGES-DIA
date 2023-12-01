@@ -67,7 +67,7 @@ nav input[type=checkbox]:checked + ul{
   flex-flow : column wrap;
 }
 nav ul li{
-  flex:;
+  flex: 1 1 auto;
   text-align: center;
   padding: 2%;
   margin-left: 1%;
@@ -90,6 +90,13 @@ nav a{
 .sous li{
   flex: 1 1 auto;
   text-align: left;
+}
+nav button{
+  color:white;
+  border-radius: 10px;
+  background-color: #0d2033;
+  /* margin-left: 95%; */
+  /* width: 100%; */
 }
 .sous a{
   /* padding: 10px; */
@@ -413,6 +420,53 @@ input[type="submit"]:hover{
     font-size: 20px;
     font-weight: 300;   
 }
+
+/* css partie contact */
+.contact{
+  width: 80%;
+  margin: auto;
+  text-align: center;
+  padding-top: 50px;
+  margin-top: 5%;
+}
+.row{
+  margin-top: 5%;
+  display: flex;
+  justify-content: space-between;
+}
+.col{
+  flex-basis:31%;
+  background:#fff3f3 ;
+  border-radius: 10px;
+  margin-bottom: 5%;
+  padding: 20px 12px;
+  box-sizing: border-box;
+  transition: 0.5s;
+}
+.col:hover{
+  box-shadow: 0 0 20px 0px rgb(105, 58, 58);
+}
+
+.icons .fa{
+  margin: 0 13px;
+  cursor: pointer;
+  padding: 18px 0;
+  /* color: #f44336; */
+}
+@media screen and (max-width:300px){
+  /* .footer{
+      width: 100%;
+  } */
+  .contact{
+      width: 100%;
+  }
+  .contact .row{
+      flex-direction: column;
+  }
+  
+
+}
+/* fin css partie contact */
 
 
 

@@ -16,43 +16,46 @@
     <h2>Images de la biodiversité Burkinabé</h2>
     <div class="gallery">
     <div class="h-stretch">
-      <img src="paysage3.jpg" alt="">
+      <img src="BIO1.jpeg" alt="">
     </div>
     <div class="v-stretch">
-      <img src="paysage3.jpg" alt="">
+      <img src="Paysage1.jpg" alt="">
+    </div>
+    <div class="h-stretch">
+      <img src="BIO5.jfif" alt="">
+    </div>
+    <div class="h-stretch">
+      <img src="BIO6.jpg" alt="">
+    </div>
+    <div class="v-stretch">
+      <img src="BIO7.jpg" alt="">
     </div>
     <div class="big-stretch">
       <img src="paysage3.jpg" alt="">
     </div>
     <div class="h-stretch">
-      <img src="paysage3.jpg" alt="">
+      <img src="Paysage4.webp" alt="">
     </div>
     <div class="v-stretch">
-      <img src="paysage3.jpg" alt="">
+      <img src="BIO10.webp" alt="">
     </div>
     <div class="big-stretch">
-      <img src="paysage3.jpg" alt="">
+      <img src="BIO11.jfif" alt="">
     </div>
     <div class="h-stretch">
-      <img src="paysage3.jpg" alt="">
+      <img src="BIO12.jpg" alt="">
     </div>
     <div class="v-stretch">
-      <img src="paysage3.jpg" alt="">
-    </div>
-    <div class="big-stretch">
-      <img src="paysage3.jpg" alt="">
-    </div>
-    <div class="h-stretch">
-      <img src="paysage3.jpg" alt="">
-    </div>
-    <div class="v-stretch">
-      <img src="paysage3.jpg" alt="">
+      <img src="BIO13.webp" alt="">
     </div>
     <div class="s-stretch">
-      <img src="paysage3.jpg" alt="">
+      <img src="BIO14.jpg" alt="">
     </div>
     <div class="v-stretch">
-      <img src="paysage3.jpg" alt="">
+      <img src="BIO15.jpg" alt="">
+    </div>
+    <div class="h-stretch">
+      <img src="nature6.jpg" alt="">
     </div>
     </div>
         

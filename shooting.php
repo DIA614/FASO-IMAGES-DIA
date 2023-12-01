@@ -16,7 +16,34 @@
     <h2>Photos shooting de nos models</h2>
     <div class="gallery">
         <div>
-      <img src="PICTURE.jpg" alt="">
+      <img src="children.jpg" alt="">
+    </div>
+    <div>
+      <img src="formation2.jpg" alt="">
+    </div>
+    <div>
+      <img src="formation3.jpg" alt="">
+    </div>
+    <div>
+      <img src="formation4.jpg" alt="">
+    </div>
+    <div>
+      <img src="formation5.jpg" alt="">
+    </div>
+    <div>
+      <img src="formation6.jpg" alt="">
+    </div>
+    <div>
+      <img src="formation8.jpg" alt="">
+    </div>
+    <div>
+      <img src="formation9.jpg" alt="">
+    </div>
+    <div>
+      <img src="formation10.jpg" alt="">
+    </div>
+    <div>
+      <img src="pictograph.jpg" alt="">
     </div>
     <div>
       <img src="pictograph.jpg" alt="">
@@ -25,34 +52,55 @@
       <img src="PICTURE.jpg" alt="">
     </div>
     <div>
-      <img src="pictograph.jpg" alt="">
+      <img src="children.jpg" alt="">
     </div>
     <div>
       <img src="PICTURE.jpg" alt="">
     </div>
     <div>
-      <img src="pictograph.jpg" alt="">
+      <img src="formation2.jpg" alt="">
     </div>
     <div>
       <img src="PICTURE.jpg" alt="">
     </div>
     <div>
-      <img src="pictograph.jpg" alt="">
-    </div>
-    <div>
-      <img src="PICTURE.jpg" alt="">
-    </div>
-    <div>
-      <img src="pictograph.jpg" alt="">
-    </div>
-    <div>
-      <img src="pictograph.jpg" alt="">
+      <img src="formation3.jpg" alt="">
     </div>
     <div>
       <img src="PICTURE.jpg" alt="">
     </div>
     <div>
       <img src="pictograph.webp" alt="">
+    </div>
+    <div>
+      <img src="PICTURE.jpg" alt="">
+    </div>
+    <div>
+      <img src="formation10" alt="">
+    </div>
+    <div>
+      <img src="PICTURE.jpg" alt="">
+    </div>
+    <div>
+      <img src="formation9.jpg" alt="">
+    </div>
+    <div>
+      <img src="PICTURE.jpg" alt="">
+    </div>
+    <div>
+      <img src="Fespaco1.jpg." alt="">
+    </div>
+    <div>
+      <img src="PICTURE.jpg" alt="">
+    </div>
+    <div>
+      <img src="children.jpg" alt="">
+    </div>
+    <div>
+      <img src="PICTURE.jpg" alt="">
+    </div>
+    <div>
+      <img src="fespaco1.jpg" alt="">
     </div>
     </div>
         

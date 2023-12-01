@@ -8,9 +8,9 @@
 </figure>
 </div>
 <div class="box"> 
-<h2>SOBRE QSFDHJ</h2>
-<p>qdsfghjklyguhnkghkjqasvvvvvAD</p>
-<p>qdsfghjklyguhnkghkjqasAD</p>
+<h2>FASO-IMAGES</h2>
+<p>Le Burkina Faso en Images</p>
+<p>Parcourez notre site web FASO-IMAGES</p>
 </div>
 <div class="box">
 <h2>FASO-IMAGES</h2>
@@ -24,6 +24,6 @@
 
 </div>
 <div class="groupe-2">
-<small> &copy; 2023 <b>Slee</b>-cvbnfds uiio zeyuiio</small>
+<small> &copy; 2023 <b>FASO-IMAGES</b>//abdouladia2@gmail.com</small>
 </div>
 </footer>

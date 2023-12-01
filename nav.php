@@ -4,17 +4,19 @@
       <input type="checkbox" id="mobile" role="button">
         <ul>
             <img src="camera-logo22.jpg" alt="Logo de Stockage d'Images">
+            <li><a href="index2.php">Acceuil</a></li>
             <li><a href="contact.php">Contact</a></li>
           <li><a href="apropos.php">A propos</a></li>
           
           <li class="deroulant"><a href="#">Categories Images &ensp;</a>
             <ul class="sous">
-            <li><a href="index2.php">Acceuil</a></li>
+           
               <li><a href="nature.php">Images Biodiversités</a></li>
               <li><a href="tourisme.php">Images Touristiques</a></li>
               <li><a href="tradition.php">Images Traditionnelles</a></li>
               <li><a href="shooting.php">Images Shooting</a></li>
-              <li><a href="paysage.php">Images Paysage</a></li>
+              <!-- <li><a href="paysage.php">Images Paysages</a></li> -->
+              <li><a href="evenement.php">Images Evènements</a></li>
             </ul>
           </li>
           <li><a href="admin.php"><button>Connexion</button></a></li>

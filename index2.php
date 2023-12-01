@@ -47,10 +47,10 @@
   <h1>Ma Galerie</h1>
   <div class="gallery">
     <div>
-      <img src="artisanat9.jpg" alt="">
+      <img src="artisanat2.jpg" alt="">
     </div>
     <div>
-      <img src="camera-logo.avif" alt="">
+      <img src="children.jpg" alt="">
     </div>
     <div class="h-stretch">
       <img src="artisana7.jpg" alt="">
@@ -59,15 +59,15 @@
       <img src="07-773.jpg" alt="">
     </div>
     <div>
-      <img src="camera-logo.avif" alt="">
+      <img src="culturelle1.jpeg" alt="">
     </div>
-    <div class="v-stretch">
-      <img src="artisana7.jpg" alt="">
+    <div class="h-stretch">
+      <img src="BIO13.webp" alt="">
     </div>
     <div class="h-stretch">
       <img src="artisanat9.jpg" alt="">
     </div>
-    <div>
+    <div class="h-stretch">
       <img src="artianat5.jpg" alt="">
     </div>
     <div class="v-stretch">
@@ -79,26 +79,117 @@
     <div class="s-stretch">
       <img src="culturelle2.jpg" alt="">
     </div>
-    <div class="s-stretch">
+    <div class="big-stretch">
       <img src="nature4.jpg" alt="">
     </div>
     <div class="s-stretch">
       <img src="paysage1.jpg" alt="">
     </div>
-    <div>
+    <div class="h-stretch">
       <img src="paysage3.jpg" alt="">
     </div>
-    <div>
+    <div class="h-stretch">
       <img src="artisanat9.jpg" alt="">
     </div>
     <div class="v-stretch">
       <img src="artisant1.jpg" alt="">
     </div>
+    <div class="h-stretch">
+      <img src="culturelle3.jpg" alt="">
+    </div>
+
+    <div class="h-stretch">
+      <img src="site1.jpg" alt="">
+    </div> 
+    <div class="v-stretch">
+      <img src="photos/m-martyrs.jpg" alt="">
+    </div>
+    <div class="-stretch">
+      <img src="photos/manega.jpg" alt="">
+    </div> 
+    <div class="-stretch">
+      <img src="photos/lorepeni.jpg" alt="">
+    </div>
+    <div class="h-stretch">
+      <img src="site1.jpg" alt="">
+    </div> 
+    <div>
+      <img src="EVENT6.jpg" alt="">
+    </div>
+    <div>
+      <img src="Fespaco.jpeg" alt="">
+    </div> 
+    <div>
+      <img src="EVENT10.jpg" alt="">
+    </div>
+    <div>
+      <img src="EVENT10.jpg" alt="">
+    </div> 
+    <div>
+      <img src="photos/lorepeni1.webp" alt="">
+    </div>
+    <div>
+      <img src="site1.jpg" alt="">
+    </div> 
+    <div>
+      <img src="photos/gaoua.webp" alt="">
+    </div>
+    <div>
+      <img src="photos/CASCADE.jpg" alt="">
+    </div> 
+    <div>
+      <img src="photos/gorom22.jpg" alt="">
+    </div>
+    <div>
+      <img src="photos/gorom4.jpg" alt="">
+    </div> 
+    <div>
+      <img src="photos/lobi2.jpg" alt="">
+    </div>
+    <div>
+      <img src="EVENT7.webp" alt="">
+    </div> 
+    <div>
+      <img src="photos/lobi.jpg" alt="">
+    </div>
+    <div>
+      <img src="photos/ARLY.jpg" alt="">
+    </div> 
+    <div>
+      <img src="photos/bobo2.jpg" alt="">
+    </div>
+    <div>
+      <img src="photos/Gorom-Gorom.jpg" alt="">
+    </div> 
     <div>
       <img src="culturelle3.jpg" alt="">
     </div>
     <div>
+      <img src="photos/gorom1.jpg" alt="">
+    </div> 
+    <div>
+      <img src="photos/burkina1.jpg" alt="">
+    </div>
+    <div>
+      <img src="photos/gaoua.webp" alt="">
+    </div> 
+    <div>
+      <img src="photos/bobo2.jpg" alt="">
+    </div>
+    <div>
+      <img src="photos/ARLY.jpg" alt="">
+    </div> 
+    <div>
+      <img src="BIO11.jfif" alt="">
+    </div>
+    <div>
       <img src="site1.jpg" alt="">
+    </div> 
+    <div>
+      <img src="artisant1.jpg" alt="">
+    </div>
+    <div>
+      <img src="bio5.jfif" alt="">
     </div> 
 
   </div>

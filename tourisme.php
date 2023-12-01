@@ -59,15 +59,67 @@
     <div>
       <img src="touristique2.jpg" alt="">
     </div>
+    <div>
+      <img src="touristique2.jpg" alt="">
+    </div>
+    <div>
+      <img src="touristique2.jpg" alt="">
+    </div>
+    <div>
+      <img src="touristique2.jpg" alt="">
+    </div>
+    <div>
+      <img src="touristique2.jpg" alt="">
+    </div>
+    <div>
+      <img src="touristique2.jpg" alt="">
+    </div>
+    <div>
+      <img src="touristique2.jpg" alt="">
+    </div>
+    <div>
+      <img src="touristique2.jpg" alt="">
+    </div>
+    <div>
+      <img src="touristique2.jpg" alt="">
+    </div>
+    <div>
+      <img src="touristique2.jpg" alt="">
+    </div>
+    <div>
+      <img src="site1.jpg" alt="">
+    </div>
+    <div>
+      <img src="site2.jpg" alt="">
+    </div>
+    <div>
+      <img src="site4.jpg" alt="">
+    </div>
+    <div>
+      <img src="site3.jpg" alt="">
+    </div>
+    <div>
+      <img src="site5.jpg" alt="">
+    </div>
+    <div>
+      <img src="site6.jpg" alt="">
+    </div>
+    <div>
+      <img src="site7.jpg" alt="">
+    </div>
+    <div>
+      <img src="touristique4.jpg" alt="">
+    </div>
     </div>
         
      
         
     </section>
     </section>
+    
 
         
-<?php
+     <?php
       include ("footer.php"); 
       ?>
   
